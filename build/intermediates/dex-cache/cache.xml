@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/BookListing/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/erickson/Documents/workspace/BookListing/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_7ba5f570163819188bf516c2b245a08509bbc3fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/NewsApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/erickson/Documents/workspace/NewsApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_836e32eeea80d1f028b274d14897306800330b8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/NewsApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/erickson/Documents/workspace/NewsApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_2c736ac1c075f21198e8703c0cb7d4a4424ddf13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/NewsApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/erickson/Documents/workspace/NewsApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_8728dbf0c7d80ff6983698dfff51dd49c59fd8db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/NewsApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/erickson/Documents/workspace/NewsApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_2970c4df34a87b9f20ec787b5024c505ac69feed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/erickson/Documents/workspace/BookListing/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_0442c3589572dc205b90ab7e0615384bb354fb61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/BookListing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/erickson/Documents/workspace/BookListing/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_969d3fcab51e902de821f1d3872e0277e84b0e22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/BookListing/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/erickson/Documents/workspace/BookListing/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_85559472b7e1eb351e81cbc3de3feadd58202a9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/NewsApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/erickson/Documents/workspace/NewsApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_0c9408f0db7734486154e5f393f60f92d89e50fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/BookListing/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/erickson/Documents/workspace/BookListing/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_1704ac629c39a0aea43408eb93d897e44a53607a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/NewsApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/erickson/Documents/workspace/NewsApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_3c03e51baf7f3ac06aa46288b7d4fb0b792c2046.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/NewsApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/erickson/Documents/workspace/NewsApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_91a47663c56a08ae44545e37a19b8e25eb722121.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/BookListing/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/erickson/Documents/workspace/BookListing/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_bd070bbb9ec150cc497025e571e9a0de60f43e6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/NewsApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/erickson/Documents/workspace/NewsApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_651e7788d94a91ad501c3432ef6bf2e4a2cd5543.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/NewsApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/erickson/Documents/workspace/NewsApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_435f18e3addf1373fe36ba2eb15d425d8170611c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/BookListing/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/erickson/Documents/workspace/BookListing/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_fde8febb14a91b190c0cd748b0f636a356c894b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/BookListing/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/erickson/Documents/workspace/BookListing/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_72abe08d461d623fc124700c3ad5481d9b5faa92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/BookListing/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/erickson/Documents/workspace/BookListing/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_a7784a65c8e18ca4721543dbc6f5db8e3321beb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/BookListing/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/erickson/Documents/workspace/BookListing/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_7eeba7c4e06e652f99fb3f4ed42a4c46e9b68771.jar" />
+    </item>
+
+</items>
